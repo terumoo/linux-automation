@@ -8,7 +8,7 @@ The script serves as an introductory automation exercise and a foundation for mo
 
 ## Features
 - Displays disk usage in a human-readable format  
-- Lists all mounted filesystems  
+- Compares usage against a configurable threshold
 - Uses standard Linux tools available on most distributions  
 
 ---
